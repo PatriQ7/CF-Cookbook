@@ -14,7 +14,7 @@ package "Install docker-compose" do
   end
 end
 
-execute "Install docker-compose"
+execute "Install docker-compose" do
   user "root"
   command "pip install docker-compose"
 end
