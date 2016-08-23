@@ -1,0 +1,7 @@
+name             'docker'
+maintainer       'Patrick Qi'
+maintainer_email 'qiqipat@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures docker'
+long_description ''
+version          '0.1.0'
